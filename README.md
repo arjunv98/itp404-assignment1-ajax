@@ -1,5 +1,5 @@
 # itp404-assignment1-ajax
-## **Ajax and the Reddit API**
+## Ajax and the Reddit API
 
 In this assignment, you will create a search and results page using Ajax and the Reddit API. The Reddit API endpoint you’ll be working with looks like this:
 
@@ -21,3 +21,6 @@ When the Ajax request responds with the data, render the title, score, and autho
 
 ### A Loading Spinner
 While the Ajax request is pending, show a loading indicator on the screen using one of these CSS spinners.
+
+### Submission
+Create a repo on GitHub called **itp404-assignment1-ajax** (named EXACTLY that) and upload your files. Send an email to the TA and myself with the GitHub URL. Failure to submit by the deadline will result in a 0.
